@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Enhance SpeedGrader UI by auto-maximizing buttons, adjusting side widths, and ensuring rubric display.
 // @author       Yusuf Qwareeq
-// @match        https://templeu.instructure.com/courses/151689/*
+// @match        https://*.instructure.com/*
 // @grant        none
 // ==/UserScript==
 
